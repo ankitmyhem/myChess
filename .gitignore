@@ -1,0 +1,11 @@
+*.txt
+/Library
+/Logs
+/obj
+/Packages
+/Temp
+/UserSettings
+/.vs
+/.vsconfig
+/Assembly-CSharp
+/Chess.sln
